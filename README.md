@@ -15,6 +15,12 @@ Descargar proyecto con el siguiente comando
 
 > git clone https://github.com/LuisCabrel/vip2cars.git
 
+> Una vez clonado el proyecto ingresan a la carpeta vip2cars y ejecutan el comando
+
+composer update
+
+composer install
+
 > ejecutar script BD.sql en tu base local
 
 > configurar el .env con las siguientes variables
